@@ -10,7 +10,7 @@ I originally started this project because I wanted to simulate contactor logic. 
 
 Fast forward a bit, I came back to it because I wanted to practice drawing electrical schematics in KiCad, combining microcontroller logic with power and control circuits. 
 
-While writing up this repository and reviewing my final KiCad drawing, I had a sudden epiphany: I had drawn real contactors right back into the control circuit anyway, despite trying so hard to avoid them in the first place. Turns out I built an overengineered microcontroller setup just to drive the very contactors I was running away from. 😅
+While writing up this repository and reviewing my final KiCad drawing, I had a sudden epiphany: I had drawn contactors right back into the control circuit anyway, despite trying hard to avoid them in the first place. Turns out I built an overengineered microcontroller contactor setup.
 
 Even though the final design ended up being completely redundant, it was still a great way to practice writing clean code, drawing electrical schematics and going over basics related to electronics.
 
