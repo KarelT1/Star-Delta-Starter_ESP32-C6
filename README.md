@@ -18,4 +18,4 @@ Even though the final design ended up being completely redundant, it was still a
 
 ## Schematic
 
-![Star-Delta Control Schematic](./Star-Delta-Startwgagswagsar.png)
+![Star-Delta Control Schematic](./Star-Delta-Starter.png)
