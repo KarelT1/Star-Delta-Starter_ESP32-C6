@@ -1,6 +1,6 @@
 # Star-Delta Three-Phase Motor Starter (ESP32-C6)
 
-A Star-Delta motor starter based around an ESP32-C6. Written in Arduino C++ using PlatformIO in VSCode. The schematic was designed in KiCad using my own IEC-60617 symbol library.
+A Star-Delta motor starter based around an ESP32-C6. Written in Arduino C++ using PlatformIO in VSCode. The schematic was designed in KiCad using [my own IEC-60617 symbol library](https://github.com/KarelT1/KiCad-IEC-60617-symbol-library).
 
 ---
 
