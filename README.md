@@ -4,7 +4,7 @@ A Star-Delta motor starter based around an ESP32-C6. Written in Arduino C++ usin
 
 ---
 
-### Story
+## Story
 
 I originally started this project because I wanted to simulate contactor logic. Real contactors are pretty expensive, so I thought it’d be a fun challenge to recreate the Star-Delta starting sequence entirely in code using cheap components. I wrote the code, tested it on a breadboard using LEDs, and then let the project sit and collect dust for a few months.
 
